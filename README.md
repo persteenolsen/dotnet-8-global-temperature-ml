@@ -4,7 +4,7 @@ Last Updated: 20-11-2024
 
 - Predict the global temperature using ML.NET
 - .NET 8 Console App 
-- This is a console application using Microsoft�s Machine Learning framework ML.NET to predict the global temperatures
+- This is a console application using Microsofts Machine Learning framework ML.NET to predict the global temperatures
 - Singular Spectrum Analysis (SSA) model for univariate time-series forecasting
 - Using the method "ForecastBySsa" of the class "TimeSeriesCatalog" for training the Model 
 - Visual Studio Code as IDE
