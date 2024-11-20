@@ -11,7 +11,7 @@ Last Updated: 20-11-2024
 
 Start the App inside VS Code
 
-- Set the Folder GlobalTemperatureML in fucus Run - Start Debug
+- Set the Folder GlobalTemperatureML in focus Run - Start Debug
 
 Start the App by outside VS Code:
 
