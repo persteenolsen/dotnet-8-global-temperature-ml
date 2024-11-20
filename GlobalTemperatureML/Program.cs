@@ -26,12 +26,13 @@ namespace Microsoft.ML.Forecasting.GlobalTemperature
             // Only close the console when pressing a key
             Console.WriteLine();
             Console.WriteLine();
-            Console.WriteLine("Press any key to exit...");
-
+            
             // Note: Works by running the App by promt and VS Code
+            Console.WriteLine("Press Enter / Return to exit...");
             Console.Read();
 
            // Note: Works by running the App by promt but fire an error in VS Code
+           // Console.WriteLine("Press any key to exit...");
            // Console.ReadKey();
         }
 

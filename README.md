@@ -11,11 +11,11 @@ Last Updated: 20-11-2024
 
 Start the App inside VS Code
 
-- Set the Folder GlobalTemperature in fucus Run - Start Debug
+- Set the Folder GlobalTemperatureML in fucus Run - Start Debug
 
 Start the App by outside VS Code:
 
-- Open a command promt in the Folder GlobalTemperature and type: dotnet run globaltemperature.csproj
+- Open a command promt in the Folder GlobalTemperatureML and type: dotnet run globaltemperatureml.csproj
 
 
 
